@@ -1,0 +1,5 @@
+{
+  "name": "RetroWeb NES",
+  "description": "A fully functional NES emulator in your browser using JSNES. Upload a .nes ROM to play. Features AI-generated game manuals and tips powered by Gemini.",
+  "requestFramePermissions": []
+}
